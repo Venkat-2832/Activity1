@@ -1,0 +1,5 @@
+This is file-3 created after creation of branch feature.
+
+"I will delete"
+
+"Plaese add me to the master/main branch"
